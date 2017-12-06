@@ -1,5 +1,6 @@
 {
   "name": "ng-cli-hello",
+  "description": "Example Angular application bootstrapped using angular-cli",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
